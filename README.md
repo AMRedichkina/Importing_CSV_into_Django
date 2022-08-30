@@ -68,6 +68,3 @@ You can upload data using the command
 ```shell
 python3 manage.py load_data
 ```
-
-**Comment: there are related fields in the transmitted data. Be careful, I recommend to familiarize yourself with the structure of the database beforehand*
-
